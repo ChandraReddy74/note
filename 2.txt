@@ -1,1 +1,11 @@
+<<<<<<< HEAD
+hi this is chandra reddy
+
+<<<<<<< Updated upstream
+added some more lines
+=======
+
+>>>>>>> Stashed changes
+=======
 learning the how to change the commit msg.
+>>>>>>> 305da08c084ce8dbf70349de7838b8ef00a518e8

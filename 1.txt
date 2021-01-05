@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+ Hi Rebel
+=======
  Hi chandra
+>>>>>>> 305da08c084ce8dbf70349de7838b8ef00a518e8
              
  how are you?
 
